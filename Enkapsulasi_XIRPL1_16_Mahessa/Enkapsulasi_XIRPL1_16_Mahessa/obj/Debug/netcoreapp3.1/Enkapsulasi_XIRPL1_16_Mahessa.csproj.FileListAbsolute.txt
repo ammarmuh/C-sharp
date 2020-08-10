@@ -1,0 +1,13 @@
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.exe
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.deps.json
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.runtimeconfig.json
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.runtimeconfig.dev.json
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.dll
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.pdb
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.csprojAssemblyReference.cache
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.AssemblyInfoInputs.cache
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.AssemblyInfo.cs
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.csproj.CoreCompileInputs.cache
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.dll
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.pdb
+E:\VS Project\Enkapsulasi_XIRPL1_16_Mahessa\Enkapsulasi_XIRPL1_16_Mahessa\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_16_Mahessa.genruntimeconfig.cache

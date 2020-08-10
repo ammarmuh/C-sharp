@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Enkapsulasi_XIRPL1_16_Mahessa/1.0.0": {
+        "runtime": {
+          "Enkapsulasi_XIRPL1_16_Mahessa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enkapsulasi_XIRPL1_16_Mahessa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
